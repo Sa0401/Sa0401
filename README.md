@@ -2,9 +2,7 @@
 <h3 align="center">AI & Machine Learning Engineer | Generative AI Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/Sa0401">
-    <img src="https://img.shields.io/github/followers/Sa0401?label=Followers&style=social" />
-  </a>
+  
   <a href="http://www.linkedin.com/in/sarathy-s-29288831b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
@@ -18,7 +16,7 @@
 ## 🛠 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,javascript,docker" />
 </p>
 
 ---
