@@ -13,9 +13,8 @@ AI & Machine Learning Engineer • Generative AI Developer • Full Stack Develo
   </a>
 </p>
 
----
 
-<br>
+
 
 # 💻 Programming Languages
 
@@ -23,8 +22,7 @@ AI & Machine Learning Engineer • Generative AI Developer • Full Stack Develo
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css" />
 </p>
 
-<br>
-<br>
+
 
 # 🤖 Artificial Intelligence & Generative AI
 
@@ -48,9 +46,6 @@ AI & Machine Learning Engineer • Generative AI Developer • Full Stack Develo
   <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge" />
 </p>
 
-<br>
-<br>
-
 # 🌐 Full Stack Development
 
 <p align="center">
@@ -61,8 +56,7 @@ AI & Machine Learning Engineer • Generative AI Developer • Full Stack Develo
   <img src="https://img.shields.io/badge/Advanced_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<br>
-<br>
+
 
 # ⚙️ Tools & Platforms
 
