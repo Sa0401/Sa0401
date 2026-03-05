@@ -1,76 +1,70 @@
-# About-Me
-<h1 align="center">Hi 👋, I'm Sara</h1>
-<h3 align="center">🚀 AI & ML Engineer | GenAI Developer | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Sarathy S</h1>
+
+<h3 align="center">
+🚀 AI & Machine Learning Engineer | GenAI Builder | RAG Systems Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" />
+  <a href="https://github.com/Sa0401">
+    <img src="https://img.shields.io/github/followers/Sa0401?label=Followers&style=social" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="http://www.linkedin.com/in/sarathy-s-29288831b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
+  <a href="mailto:sarusarathy0401@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🧠 Who Am I?
 
-- 🎓 Engineering Student passionate about **Artificial Intelligence & Machine Learning**
-- 🤖 Building **Generative AI applications using LLMs**
-- 🔍 Experienced in **RAG pipelines, FAISS, SentenceTransformers**
-- 🐳 Docker enthusiast – love optimizing & deploying ML systems
-- 💡 Always exploring AI for real-world impact
+🎓 B.E CSE (AI & ML) Student  
+🤖 Building intelligent systems using LLMs  
+⚡ Focused on scalable AI deployment  
+🔍 Exploring Agentic AI & Advanced Prompt Engineering  
+🐳 Docker-friendly ML Engineer  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Core Stack
 
 ### 👨‍💻 Programming
-`Python` | `C` | `C++` | `Java` | `JavaScript`
+`Python` `Java` `C++` `C` `HTML` `CSS`
 
-### 🤖 AI / ML
-`Machine Learning` | `Deep Learning` | `NLP` | `Computer Vision`  
-`Transformers` | `OpenAI API` | `LangChain` | `FAISS`
+### 🤖 AI & GenAI
+`Machine Learning` `Deep Learning`  
+`NLP` `Computer Vision`  
+`Transformers` `FAISS` `SentenceTransformers`  
+`OpenAI API` `OpenRouter` `RAG`
 
-### 🌐 Web & Tools
-`HTML` | `CSS` | `Bootstrap` | `Git` | `GitHub` | `Docker`
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 GenAI RAG Chatbot
-- Built Retrieval-Augmented Generation pipeline
-- Used FAISS + SentenceTransformers
-- Integrated OpenAI/OpenRouter APIs
-
-### 🔹 Car Price Prediction ML Model
-- End-to-end ML pipeline
-- EDA + Model Optimization
-- Deployment-ready structure
+### ⚙️ Tools & Platforms
+`Docker` `Linux` `Git` `GitHub`  
+`React` `Django`  
+`MySQL` `MongoDB`  
+`Jupyter Notebook`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sa0401&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sa0401&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
-- Agentic AI Systems
-- Advanced Prompt Engineering
-- Scalable AI Deployment
+## 🌌 Current Focus
+
+- Building Production-Ready GenAI Applications  
+- Designing Efficient RAG Architectures  
+- Optimizing Docker for ML Deployment  
+- Exploring Agentic AI Systems  
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 📧 Email: yourmail@example.com
-
----
-
-⭐ *“Building intelligent systems that think, learn, and create.”*
+<h3 align="center">
+⚡ "Engineering intelligence into reality."
+</h3>
