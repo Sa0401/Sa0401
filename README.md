@@ -1,4 +1,4 @@
-<h1 align="center">Sarathy S</h1>
+<h1 align="center"></h1>
 
 <h3 align="center">
 AI & Machine Learning Engineer • Generative AI Developer • Full Stack Developer
